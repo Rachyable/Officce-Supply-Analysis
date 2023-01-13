@@ -1,4 +1,4 @@
-# Officce-Supply-Analysis
+# Office-Supply-Analysis
 Analysis of office supply for S.O Company
 
 This project was completed using Power BI and presentation was done using Microsoft Power Point. 
